@@ -234,8 +234,7 @@ arel-cohort7-planning-project/
       06_absence_pattern_before_dropout.sql
       07_instructor_handoff_impact.sql
       08_course_cohort_ranking.sql
-  docs/
-      (screenshots of your charts)
+ 
 ```
 
 SQL scripts directory: `/sql/`
@@ -243,8 +242,9 @@ SQL scripts directory: `/sql/`
 ## Contact
 
 Linkinedin: {Aruei Arok}(https://www.https://www.linkedin.com/in/aruei-arok/)
-GitHub: {Aruei Arok} (https://www.linkedin.com/in/aruei-arok)
+GitHub: {Aruei Arok} (https://https://github.com/aruei-arok)
 
 LinkedIn: [Your LinkedIn profile URL]
+
 GitHub or portfolio: [Link to your GitHub profile or personal portfolio]
 Email: [Your professional email]
